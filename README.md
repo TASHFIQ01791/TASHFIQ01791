@@ -1,57 +1,79 @@
+<!-- Banner Image -->
+<img src="Untitled-4 (1).png" alt="Tashfiq Taif Banner" width="100%" style="margin-bottom: 30px;" />
 
-
-<img align="right" src="Untitled-4 (1).png" alt="Coding Illustration" width="100%" />
-
-# Hi there 👋, I'm Tashfiq Taif (TAT Developer)
+<!-- Profile Intro -->
+# 👋 Hi, I'm Tashfiq Taif — TAT Developer
 
 ## MERN Stack Learner | Frontend Developer | CSE Graduate
 
-I’m a passionate frontend developer with a strong foundation in modern web technologies. Currently focused on learning the **MERN stack** and improving my backend skills. I love solving real-world problems and writing clean, efficient code. I'm also a competitive programmer and a CSE graduate, eager to contribute to both remote and onsite roles.
+I’m a dedicated and creative **Frontend Developer** with a strong foundation in modern web technologies. I'm currently diving deep into the **MERN Stack**, aiming to become a well-rounded full-stack developer. With a background in **Competitive Programming** and a degree in **Computer Science & Engineering**, I bring analytical thinking and problem-solving skills to every project.
 
-> “Coding is not just a skill — it's a way to bring ideas to life and solve real problems.”
+I love turning ideas into reality using clean, scalable, and efficient code. Open to **remote** and **onsite** roles where I can grow, collaborate, and build meaningful products.
+
+> *"Coding isn't just about syntax — it's about solving real problems with smart solutions."*
 
 ---
 
-### 🧠 **About Me**
+### 🧠 About Me
 
 - 🚀 Currently building a **Learning Management System (LMS)**
-- 📚 Learning **Next.js** and the complete **MERN Stack**
-- 💬 Ask me about **Frontend Development** and **Problem Solving**
-- 📫 Reach me at: **metashfiq01791@gmail.com**
-- 🎯 Participated in **ICPC 2023 & 2024 Onsite Rounds**
-- 😄 Fun fact: I think I’m funny (and that's my debugging strategy too!)
+- 🌱 Exploring **Next.js**, **MongoDB**, and **Full MERN Stack**
+- 💬 Ask me about **Frontend Development**, **Problem Solving**, or **Competitive Coding**
+- 📧 Email me at: **metashfiq01791@gmail.com**
+- 🏆 Participated in **ICPC 2023 & 2024 – Onsite Rounds**
+- 🎯 Actively improving both frontend design and backend logic
+- 😄 Fun fact: Debugging works better with a little humor 😉
 
 ---
 
-### 🛠️ **Skillset**
+### 💼 Tech Stack
 
-**Frontend:**  
-`React` · `JavaScript` · `HTML` · `CSS` · `TailwindCSS` · `Bootstrap` · `Redux` · `Axios`
+#### 🖥️ Frontend  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40" title="Bootstrap" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" title="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" title="Redux" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/axios/axios-original.svg" width="40" title="Axios" />
+</p>
 
-**Backend:**  
-`Laravel (Basic)` · `Node.js (Learning)` · `Express.js` · `MongoDB (Learning)`
+#### 🗄️ Backend  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" title="Laravel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" title="Express.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB" />
+</p>
 
-**Programming Languages:**  
-`C` · `C++` · `Python` · `JavaScript`
+#### 💻 Programming Languages  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
+</p>
 
 ---
 
-### 🌐 **Connect with Me**
+### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/tashfiq-taif)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge)](https://fb.com/tashfiq%20taif)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/tashfiq-taif)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge)](https://fb.com/tashfiq%20taif)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:metashfiq01791@gmail.com)
 
 ---
 
-### 📊 **GitHub Stats**
+### 📊 GitHub Stats
 
-<p>
-  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=TASHFIQ01791&show_icons=true&locale=en&layout=compact" />
-  <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api?username=TASHFIQ01791&show_icons=true&locale=en" />
+<p align="left">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=TASHFIQ01791&show_icons=true&locale=en&layout=compact" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=TASHFIQ01791&show_icons=true&locale=en" />
 </p>
 
-<br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TASHFIQ01791" />
