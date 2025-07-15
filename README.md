@@ -1,6 +1,6 @@
-![MasterHead](https://miro.medium.com/max/828/0*FGD6BUzzZs1VJLuY.gif)
 
-<img align="right" src="Untitled-4 (1).png" alt="Coding Illustration" width="350" />
+
+<img align="right" src="Untitled-4 (1).png" alt="Coding Illustration" width="100%" />
 
 # Hi there 👋, I'm Tashfiq Taif (TAT Developer)
 
