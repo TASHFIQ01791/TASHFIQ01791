@@ -24,27 +24,22 @@ I believe in solving real-world problems through efficient code and intuitive de
 
 ---
 
-### 💼 Tech Stack
+###  Tech Stack
 
-#### ✅ Frontend
-- HTML5, CSS3, JavaScript (ES6+)
-- React, Redux, Axios
-- Tailwind CSS, Bootstrap
+####   Frontend
+- HTML5, CSS3, JavaScript (ES6+) || - React, Redux, Axios || - Tailwind CSS, Bootstrap
 
-#### ✅ Backend
-- Laravel (Basic)
-- Node.js (Learning), Express.js
-- MongoDB (Learning)
+####   Backend
+- Laravel (Basic) || - Node.js (Learning), Express.js || - MongoDB (Learning)
 
-#### ✅ Programming Languages
+####   Programming Languages
 - C, C++, Python, JavaScript
 
 ---
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/tashfiq-taif)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge)](https://fb.com/tashfiq%20taif)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/tashfiq-taif-609544203/)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:metashfiq01791@gmail.com)
 
 ---
